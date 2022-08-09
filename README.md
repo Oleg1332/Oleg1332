@@ -6,8 +6,8 @@
 
 ### My pet projects:
 - [Recipe app](https://github.com/Oleg1332/neRecipe)
-- [Posts & scroll view] (https://github.com/Oleg1332/Nmedia)
-- [Graphic converter] (https://github.com/Oleg1332/Graphic-converter)
+- [Posts & scroll view](https://github.com/Oleg1332/Nmedia)
+- [Graphic converter](https://github.com/Oleg1332/Graphic-converter)
 
 ### Connect with me:
 
